@@ -34,4 +34,6 @@ The following table contains a brief description of the files and folders in thi
 | **Data**| dataset from web scraping and reviews|
 
 ## Application
-Please run the **6_Application.ipynb** file to input your data and obtain the rental price prediction result. 
+Please run the **6_Application.ipynb** file to input your data and obtain the rental price prediction and review analysis result. 
+![alt text](https://github.com/cocoy02/IS4242_Group11_Rental_Price_Prediction/blob/main/Images/Application_PredictPrice.png?raw=true)
+![alt text](https://github.com/cocoy02/IS4242_Group11_Rental_Price_Prediction/blob/main/Images/Application_ReviewAnalysis.png?raw=true)
